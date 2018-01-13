@@ -1,6 +1,6 @@
 # scs-with-reg-viz
 
-[![CircleCI](https://circleci.com/gh/tsuyoshiwada/scs-with-reg-viz.svg?style=svg)](https://circleci.com/gh/tsuyoshiwada/scs-with-reg-viz)
+[![CircleCI](https://circleci.com/gh/tsuyoshiwada/scs-with-reg-viz/tree/master.svg?style=svg)](https://circleci.com/gh/tsuyoshiwada/scs-with-reg-viz/tree/master)
 
 A example repository of visual regression test using [storybook-chrome-screenshot](https://github.com/tsuyoshiwada/storybook-chrome-screenshot) and [reg-suit](https://reg-viz.github.io/reg-suit/).
 
