@@ -3,6 +3,7 @@
   "name": "scs-with-reg-viz",
   "description": "A example repository of visual regression test using storybook-chrome-screenshot and reg-suit.",
   "scripts": {
+    "regression": "reg-suit run",
     "storybook": "start-storybook -p 9001 -c .storybook",
     "screenshot": "storybook-chrome-screenshot -p 9001 -c .storybook"
   },
@@ -14,6 +15,10 @@
   "devDependencies": {
     "@storybook/react": "^3.3.9",
     "babel-core": "^6.26.0",
+    "reg-keygen-git-hash-plugin": "^0.7.0",
+    "reg-notify-github-plugin": "^0.7.0",
+    "reg-publish-s3-plugin": "^0.7.0",
+    "reg-suit": "^0.7.0",
     "storybook-chrome-screenshot": "^1.0.0"
   },
   "author": "tsuyoshiwada",
