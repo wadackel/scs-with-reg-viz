@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "scs-with-reg-viz",
+  "description": "A example repository of visual regression test using storybook-chrome-screenshot and reg-suit.",
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "devDependencies": {
+    "@storybook/react": "^3.3.9",
+    "babel-core": "^6.26.0"
+  },
+  "author": "tsuyoshiwada",
+  "license": "MIT"
+}
