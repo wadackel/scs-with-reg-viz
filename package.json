@@ -5,7 +5,8 @@
   "scripts": {
     "regression": "reg-suit run",
     "storybook": "start-storybook -p 9001 -c .storybook",
-    "screenshot": "storybook-chrome-screenshot -p 9001 -c .storybook"
+    "screenshot": "storybook-chrome-screenshot -p 9001 -c .storybook",
+    "compare": "reg-suit compare"
   },
   "dependencies": {
     "react": "^16.2.0",
