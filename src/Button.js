@@ -11,7 +11,7 @@ export const Button = ({ children, primary }) => (
       borderWidth: 1,
       borderColor: primary ? '#00c4a7' : '#adadad',
       background: primary ? '#00c4a7' : '#fff',
-      color: primary ? '#fff' : '#363636',
+      color: primary ? '#000' : '#363636',
       font: 'normal 14px/50px sans-serif',
       textRendering: 'optimizeLegibility',
     }}
