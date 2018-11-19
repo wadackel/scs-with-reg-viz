@@ -5,5 +5,5 @@ import { Button } from "./Button";
 
 storiesOf("Button", module)
   .addDecorator(withScreenshot())
-  .add("with default style", () => <Button primary>Default</Button>)
+  .add("with default style", () => <Button>Default</Button>)
   .add("with primary style", () => <Button primary>Primary</Button>);
