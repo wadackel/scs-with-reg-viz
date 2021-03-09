@@ -10,11 +10,8 @@
   },
   "plugins": {
     "reg-keygen-git-hash-plugin": true,
-    "reg-notify-github-plugin": {
-      "clientId": "MzQ0Nza1MDSx0C9OLtYtzyzJ0C1KTdcty6zSNzczMzbULykurcwvzsgsT0xJBAA="
-    },
     "reg-publish-s3-plugin": {
-      "bucketName": "reg-publish-bucket-8b1c896e-6617-4b1f-bfa9-40e759d515a5"
+      "bucketName": "apfslyr-snapshot-test"
     }
   }
 }
