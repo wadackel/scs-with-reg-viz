@@ -16,6 +16,7 @@ export const Button = ({ children, primary }) => (
       textRendering: 'optimizeLegibility',
     }}
   >
+    Lol
     {children}
   </button>
 );
